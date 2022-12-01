@@ -11698,3 +11698,14 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
+.accordion{
+  width: 50%;
+
+}
+
+.table{
+  width: 70%;
+  background-color: #1891a7;
+}
+
