@@ -3124,13 +3124,13 @@ textarea.form-control-lg {
 
 .btn-info {
   color: #fff;
-  background-color: #1cabc4;
-  border-color: #1cabc4;
+  background-color: #98c3ed;
+  border-color: #98c3ed;
 }
 .btn-info:hover {
   color: #fff;
-  background-color: #1891a7;
-  border-color: #16899d;
+  background-color: #1ab6d1;
+  border-color: #1ab6d1;
 }
 .btn-check:focus + .btn-info, .btn-info:focus {
   color: #fff;
@@ -11706,6 +11706,18 @@ body {
 
 .table{
   width: 70%;
-  background-color: #1891a7;
+  background-color: #98c3ed;
 }
 
+.colorta{
+  background-color: #8dbe8d
+}
+
+.work-img{
+  width: 120%;
+
+}
+
+.work-box{
+  width: 80%;
+}
